@@ -1,0 +1,4 @@
+"AadClientId": "15be228f-95ed-4b66-a4dd-e63b9598d4f0",
+  "AadSecret": "Y_d8Q~r7FJuaQcgfegG46eKVGm-9tbPwJVI_wbCp",
+  "AadTenantDomain": "larasawalha.onmicrosoft.com",
+  "AadTenantId": "7639ab0a-6ee5-4b88-b501-006d221310ff",
